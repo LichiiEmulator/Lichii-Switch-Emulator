@@ -1,0 +1,1 @@
+Run lichii.exe from the build 75 archive. Point it at keys, firmware, and a game you already own.
